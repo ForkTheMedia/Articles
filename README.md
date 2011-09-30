@@ -8,6 +8,8 @@ How do I do it?
 
 ForkTheMedia uses Github's common workflow for Open Source development to take a piece of news, in this case the repository is meant for Articles, update the content to have more information (cite your sources!), and commit it to the repository. Don't like someone else's take on updating the content in question? No problem, [fork it](http://help.github.com/fork-a-repo/), and improve it!
 
+Alternatively, you can write your own news story from scratch.
+
 Isn't this a violation of copyright?
 ------------------------------------
 
